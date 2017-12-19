@@ -22,14 +22,10 @@ title: Contact
 
 # Contact
 
-I value my time, so make it worth it, and [keep it succinct.](https://www.google.com/search?q=succinct+emails)
-
 ---
 
 <p id="email">
-	<a href="mailto:sindresorhus@gmail.com">sindresorhus@gmail.com</a>
+	<a href="mailto:davidkoojohn@126.com">davidkoojohn@126.com</a>
 </p>
 
 ---
-
-Please no support questions, job offers, questionnaires, etc.

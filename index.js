@@ -15,16 +15,6 @@
 		document.head.appendChild(script);
 	}
 
-	// Unicorn easteregg
-	dom.select('#unicorn-btn').addEventListener('click', event => {
-		event.preventDefault();
-		injectScript('cornify.js', () => {
-			cornify();
-			cornify();
-			setInterval(cornify, 1000);
-		});
-	});
-
 	// Smooth anchor scroll
 	new AnchorScroller();
 
