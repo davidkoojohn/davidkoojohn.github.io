@@ -1,7 +1,7 @@
-title: Sindre Sorhus
-description: Open-sourcerer & aspiring rebel
+title: John Kuo
+description: 我梦寐以求是真爱＆自由！
 baseurl: ''
-url: https://sindresorhus.com
+url:
 permalink: slug
 collections:
   apps:
@@ -18,10 +18,8 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - readme.md
-  - license
-  - CNAME
-  - screenshot.jpg
+  - README.md
+  - LICENSE
 plugins:
   - jekyll-sitemap
 strict_front_matter: true
