@@ -25,7 +25,7 @@ title: Contact
 ---
 
 <p id="email">
-	<a href="mailto:davidkoojohn@126.com">davidkoojohn@126.com</a>
+	<a href="mailto:davidkoojohn@126.com" title="Send me a message">davidkoojohn@126.com</a>
 </p>
 
 ---
