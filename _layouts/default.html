@@ -59,7 +59,11 @@
 								<span></span>
 							</span>
 							<div class="nav-right nav-menu">
+								{% if page.url != '/' %}
+								<a class="nav-item" href="/">Home</a>
+								{% endif %}
 								<a class="nav-item is-tab" href="https://davidkoojohn.github.io/share/">Blog</a>
+								<a class="nav-item is-tab" href="https://github.com/davidkoojohn">Code</a>
 								<a class="nav-item is-tab" href="{% link about.md %}">About</a>
 								<a class="nav-item is-tab" href="{% link projects.md %}" style="display: none">Projects</a>
 								<span class="nav-item">
