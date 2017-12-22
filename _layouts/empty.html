@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#3273DC">
+  <meta name="author" content="John Kuo">
+  {% capture description %}{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+  <meta name="description" content="{{ description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:description" content="{{ description }}">
+  {% if page.collection == 'apps' %}
+  {% for file in site.static_files %}
+  {% assign path = '/assets/' | append: page.slug | append: '/icon' %}
+  {% if file.path contains path %}
+  <meta property="og:image" content="{{ file.path | absolute_url }}">
+  {% endif %}
+  {% endfor %}
+  {% else %}
+  <meta property="og:image" content="https://davidkoojohn.github.io/davidkoojohn.jpg">
+  {% endif %}
+  <meta name="x-build-time" content="{{ site.time | date_to_rfc822 }}">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="alternate" type="application/rss+xml" title="John Kuo` blog" href="https://davidkoojohn.github.io/share/">
+  <link rel="preload" href="{{ '/font-awesome.woff' | relative_url }}" as="font" crossorigin>
+  <link rel="icon" href="{{ '/favicon.png' | relative_url }}" sizes="32x32">
+
+  {% if page.url == '/resume' %}
+  <link rel="stylesheet" href="{{ '/assets/stylesheets/markdown.css' | relative_url }}">
+  {% endif %}
+  <script defer src="{{ '/assets/javascript/AnchorScroller.js' | relative_url }}"></script>
+  <!-- Baidu Analytics -->
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?c16c8ba292a2abfc9c23dcb0dde8d2ca";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+  <!-- / Baidu Analytics -->
+</head>
+<body>
+{{ content }}
+</body>
+</html>
