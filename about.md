@@ -23,11 +23,12 @@ title: About
 
 ---
 
-> Greetings, I’m john. I’m a web developer living in Xi'an China. I am a fan of music, movies, and coffee. I’m also interested in sports. You can visit my website with a click on the button above.
+Greetings, I’m john. I’m a web developer living in Xi'an China. I am a fan of music, movies, and coffee. I’m also interested in sports. [You can visit my website with a click on the button above](/).
 
 ---
 
-This is my [resume](./resume.md), preview `resume.pdf` [Click Here](/preview-pdf-resume).
+[This is my resume](/resume.md), [Preview `resume.pdf` Click Here](/preview-pdf-resume).
+<a href="/assets/resume.pdf" download="johnkuo-resume" title="Download My Reaume">Click Download JohnKuo`Resume</a>.
 
 ---
 
