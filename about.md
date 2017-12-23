@@ -7,15 +7,14 @@ title: About
 	h1 {
 		font-size: 30px;
 	}
-
+	
 	/* Fix this for real instead of in every place */
-	h1 {
-		margin-top: -200px;
-		margin-bottom: 20px;
-	}
+  h1 {
+    margin-top: -200px;
+    margin-bottom: 20px;
+  }
 
 	#email {
-		text-align: center;
 		font-size: 25px;
 	}
 </style>
@@ -29,5 +28,11 @@ title: About
 ---
 
 This is my [resume](./resume.md), preview `resume.pdf` [Click Here](/preview-pdf-resume).
+
+---
+
+<p id="email">
+	Contact me: <a href="mailto:davidkoojohn@126.com" title="Send me a message">davidkoojohn@126.com</a>
+</p>
 
 ---
