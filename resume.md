@@ -1,18 +1,22 @@
 ---
-layout: markdown
+layout: resume
 title: Resume
 ---
 
-# Resume
+----
+# koo
 
-col | <img src="/davidkoojohn.jpg" height="100"> |
+* item
+  * item
+  * item
+* item
+* item
 
-
-![](/davidkoojohn.jpg)
-
-<img src="/davidkoojohn.jpg" height="100">
-
-
+1. item
+  1. item
+  2. item
+2. item
+3. item
 
 
 

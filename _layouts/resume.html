@@ -1,0 +1,72 @@
+---
+layout: empty
+---
+
+<style>
+  body {
+    margin: 0;
+  }
+
+  .markdown-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+  }
+
+  .info {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .info-content {
+    flex-grow: 1;
+  }
+
+  .avatar {
+    width: 200px;
+  }
+
+  .avatar img {
+    width: 100%;
+    vertical-align: middle;
+  }
+
+  @media (max-width: 767px) {
+    .markdown-body {
+      padding: 15px;
+    }
+
+    .info {
+      display: block;
+    }
+
+    .avatar {
+      width: 100%;
+    }
+  }
+</style>
+<article class="markdown-body">
+  <h1>info</h1>
+  <div class="info">
+    <div class="avatar">
+      <img src="/davidkoojohn.jpg">
+    </div>
+    <div class="info-content">
+      <ul>
+        <li>item</li>
+        <li>item</li>
+        <li>item</li>
+        <li>item</li>
+        <li>item</li>
+        <li>item</li>
+        <li>item</li>
+      </ul>
+    </div>
+  </div>
+
+
+  {{content}}
+</article>
+
