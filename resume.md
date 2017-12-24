@@ -16,36 +16,34 @@ title: Resume
 * 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。
 * 后端技术：ruby on rails
 * 开发环境：ubuntu
-* 项目
-  1. [众享车贷](https://www.allchedai.com/): https://www.allchedai.com/
+
+### 项目经验
+
+* [众享车贷](https://www.allchedai.com/): https://www.allchedai.com/
     
-    * 项目综述:
-      * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
-      * 前端技术：jquery、scss、Bootstrap、Echart 等
-      * 责任描述：前端开发&后端开发
+    * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
+    * 前端技术：jquery、scss、Bootstrap、Echart 等
+    * 责任描述：前端开发&后端开发
 
-  2. [旗讯看车](http://carhot.cn/): http://carhot.cn/
+* [旗讯看车](http://carhot.cn/): http://carhot.cn/
     
-    * 项目综述:
-      * 项目描述: 基于 PC 端的汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
-      * 前端技术：jquery、scss、Bootstrap、Echart 等
-      * 责任描述：前端开发 & 后端开发 & 项目管理
+    * 项目描述: 基于 PC 端的汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
+    * 前端技术：jquery、scss、Bootstrap、Echart 等
+    * 责任描述：前端开发 & 后端开发 & 项目管理
 
-  3. [花生财税](http://hs.myonlystar.com): http://hs.myonlystar.com/ 或 http://www.hstax.com.cn/ 
+* [花生财税](http://hs.myonlystar.com): http://hs.myonlystar.com/ 或 http://www.hstax.com.cn/ 
 
-    * 项目综述:
-      * 项目描述：是提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
-      * 开发技术：React、Ant-design、Less、webpack、nodejs 等
-      * 责任描述：负责项目独立开发
+    * 项目描述：是提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
+    * 开发技术：React、Ant-design、Less、webpack、nodejs 等
+    * 责任描述：负责项目独立开发
 
-  4. 项目：旗讯看车+ `小程序`
+* 项目：旗讯看车+ `小程序`
 
-    * 项目综述:
-      * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
-      * 开发技术：小程序开发技术、ruby on rails 提供 API，小程序 weui，ES6 等
-      * 开发环境：windows -> mac -> ubuntu
-      * 开发工具：webstorm
-      * 责任描述：负责项目管理及开发
+    * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
+    * 开发技术：小程序开发技术、ruby on rails 提供 API，小程序 weui，ES6 等
+    * 开发环境：windows -> mac -> ubuntu
+    * 开发工具：webstorm
+    * 责任描述：负责项目管理及开发
 
 ---
 
