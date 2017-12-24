@@ -76,7 +76,8 @@ title: Resume
 
 ---
 
-*简历链接Markdown版: https://davidkoojohn.github.io/resume*
-*简历链接Pdf版: https://davidkoojohn.github.io/preview-pdf-resume*
+*[简历链接Markdown版](https://davidkoojohn.github.io/resume): https://davidkoojohn.github.io/resume.*
+
+*[预览简历链接PDF版](https://davidkoojohn.github.io/preview-pdf-resume): https://davidkoojohn.github.io/preview-pdf-resume.*
 
 
