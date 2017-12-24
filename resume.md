@@ -73,3 +73,10 @@ title: Resume
 ### 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+---
+
+*简历链接Markdown版: https://davidkoojohn.github.io/resume*
+*简历链接Pdf版: https://davidkoojohn.github.io/preview-pdf-resume*
+
+
