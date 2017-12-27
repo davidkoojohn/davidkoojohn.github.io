@@ -37,7 +37,7 @@ title: Resume
     * 开发技术：React、Ant-design、Less、webpack、nodejs 等
     * 责任描述：负责项目独立开发
 
-* 项目：旗讯看车+ `小程序`
+* 旗讯看车+ `小程序`
 
     * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
     * 开发技术：小程序开发技术、ruby on rails 提供 API，小程序 weui，ES6 等
@@ -76,8 +76,8 @@ title: Resume
 
 ---
 
-*[简历链接Markdown版](https://davidkoojohn.github.io/resume): https://davidkoojohn.github.io/resume*
+*[简历Markdown版链接](https://davidkoojohn.github.io/resume): https://davidkoojohn.github.io/resume*
 
-*[预览简历链接PDF版](https://davidkoojohn.github.io/preview-pdf-resume): https://davidkoojohn.github.io/preview-pdf-resume*
+*[简历PDF版链接](https://davidkoojohn.github.io/preview-pdf-resume): https://davidkoojohn.github.io/preview-pdf-resume*
 
 
