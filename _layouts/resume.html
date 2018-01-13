@@ -38,6 +38,15 @@ layout: empty
     vertical-align: middle;
   }
 
+  .qrcode {
+    width: 150px;
+  }
+
+  .qrcode img {
+    width: 100%;
+    vertical-align: middle;
+  }
+
   @media (max-width: 530px) {
     .markdown-body {
       padding: 15px;
@@ -76,16 +85,25 @@ layout: empty
 <article class="markdown-body">
   <h1 class="text-center">郭钊个人简历</h1>
   <h3>联系方式</h3>
-  <ul>
-    <li>
-      手机: <a href="tel:13289321057">13289321057</a>
-    </li>
-    <li>
-      Email: <a href="mailto:davidkoojohn@126.com" title="Send me a message">davidkoojohn@126.com</a>
-    </li>
-    <li>微信号: qq1020638186</li>
-    <li>QQ号: 1020638386</li>
-  </ul>
+  <div class="info">
+    <div class="info-content">
+      <ul>
+        <li>
+          手机: <a href="tel:13289321057"><strong>13289321057</strong></a>
+        </li>
+        <li>
+          Email: <a href="mailto:davidkoojohn@126.com" title="Send me a message"><strong>davidkoojohn@126.com</strong></a>
+        </li>
+        <li>微信号: <strong>qq1020638186</strong></li>
+      </ul>
+    </div>
+    <div class="qrcode">
+      <a href="mailto:davidkoojohn@126.com">
+        <img src="/assets/images/cli_300px.png">
+      </a>
+    </div>
+  </div>
+
   <hr>
   <h3>个人信息</h3>
   <div class="info">
@@ -97,9 +115,9 @@ layout: empty
     <div class="info-content">
       <ul>
         <li>姓名: 郭钊</li>
-        <li>学历: 大学本科/西安理工大学高科学院</li>
+        <li>学历: <strong>大学本科</strong> / 西安理工大学高科学院</li>
         <li>
-          Github: <a href="https://github.com/davidkoojohn/"><b>@ davidkoojohn</b></a>
+          Github: <a href="https://github.com/davidkoojohn/"><strong>@ davidkoojohn</strong></a>
         </li>
         <li>
           个人网站: <a href="https://davidkoojohn.github.io"><i>https://davidkoojohn.github.io</i></a>
