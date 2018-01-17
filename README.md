@@ -7,13 +7,13 @@
 > On PC screenshots
 
 <a href="https://davidkoojohn.github.io">
-	<img src="assets/images/screenshot.jpg" width="700">
+	<img src="assets/images/screenshot.jpg" width="700" border="1">
 </a>
 
 > On Mobile screenshots
 
 <a href="https://davidkoojohn.github.io">
-	<img src="assets/images/screenshot-mobile.png" width="375">
+	<img src="assets/images/screenshot-mobile.png" width="375" border="1">
 </a>
 
 > Contact me
