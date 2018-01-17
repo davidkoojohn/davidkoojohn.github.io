@@ -7,19 +7,19 @@
 > On PC screenshots
 
 <a href="https://davidkoojohn.github.io">
-	<img src="assets/images/screenshot.jpg" width="600">
+	<img src="assets/images/screenshot.jpg" width="700">
 </a>
 
 > On Mobile screenshots
 
 <a href="https://davidkoojohn.github.io">
-	<img src="assets/images/screenshot-mobile.jpg" width="400">
+	<img src="assets/images/screenshot-mobile.png" width="375">
 </a>
 
 > Contact me
 
 <a href="https://davidkoojohn.github.io/about">
-	<img src="assets/images/cli_300px.png" width="300">
+	<img src="assets/images/cli_300px.png" width="177">
 </a>
 
 ## License
