@@ -3,6 +3,24 @@ layout: resume
 title: Resume
 ---
 
+<style>
+  img {
+    vertical-align: middle;
+  }
+  
+	.website-item {
+	  display: flex;
+	  justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e1e4e8;
+    margin-bottom: .5em;
+    padding: .5em 0;
+	}
+</style>
+
+
+
+
 ### 期望工作: web前端开发工程师
 
 ---
@@ -76,7 +94,34 @@ title: Resume
 
 ---
 
-*[简历Markdown版链接: https://davidkoojohn.github.io/resume](https://davidkoojohn.github.io/resume)*
+### 附加信息
+
+<div class="website-item">
+  <a href="https://davidkoojohn.github.io">
+    个人网站链接: https://davidkoojohn.github.io
+  </a>
+  <a href="https://davidkoojohn.github.io">
+    <img src="/assets/images/me.png" width="100">
+  </a>
+</div>
+
+<div class="website-item">
+  <a href="https://davidkoojohn.github.io/share/">
+    个人博客链接: https://davidkoojohn.github.io/share/
+  </a>
+  <a href="https://davidkoojohn.github.io/share/">
+    <img src="/assets/images/share.png" width="100">
+  </a>
+</div>
+
+<div class="website-item">
+  <a href="https://davidkoojohn.github.io/resume">
+    简历Markdown版链接: https://davidkoojohn.github.io/resume
+  </a>
+  <a href="https://davidkoojohn.github.io/resume">
+    <img src="/assets/images/resume.png" width="100">
+  </a>
+</div>
 
 *[简历PDF版链接: https://davidkoojohn.github.io/preview-pdf-resume](https://davidkoojohn.github.io/preview-pdf-resume)*
 
