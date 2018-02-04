@@ -34,5 +34,5 @@ Greetings, I’m john. I’m a web developer living in Xi'an China. I am a fan o
 ---
 
 <a href="javascript:void(0)" title="Send me a WeChat">
-	<img src="assets/images/cli_300px.png" width="130">
+	<img src="assets/images/wechat_300px.png" width="130">
 </a>
