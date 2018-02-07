@@ -41,12 +41,14 @@ title: Resume
     
     * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
     * 前端技术：jquery、scss、Bootstrap、Echarts 等
-    * 责任描述：前端开发&后端开发
+    * 后端技术：ruby on rails
+    * 责任描述：前端开发 & 后端开发
 
 * [旗讯看车: http://carhot.cn/](http://carhot.cn/)
     
     * 项目描述: 基于 PC 端的汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
     * 前端技术：jquery、scss、Bootstrap、Echart 等
+    * 后端技术：ruby on rails
     * 责任描述：前端开发 & 后端开发 & 项目管理
 
 * [花生财税: http://hs.myonlystar.com](http://hs.myonlystar.com/)
@@ -67,10 +69,10 @@ title: Resume
 
 ### 技能清单
 
-* Html / Html5、CSS / CSS3、JavaScript、JQuery、Ajax 等技术；
+* Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
 * Website、Responsive Web、Web App 等开发；
 * Bootstrap、React、Vue 等前端框架；
-* 微信小程序应用开发；
+* 熟悉微信小程序应用开发，小程序官方 UI 裤 weui，小程序官方基于 node 环境开发工具 wepy 框架；
 * 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
 * 熟悉 SassLint， ESLint 等前端测试工具;
 * Ruby on rails 开发，了解 nodejs 开发；
