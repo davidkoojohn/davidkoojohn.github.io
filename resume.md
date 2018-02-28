@@ -72,7 +72,7 @@ title: Resume
 * Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
 * Website、Responsive Web、Web App 等开发；
 * Bootstrap、React、Vue 等前端框架；
-* 熟悉微信小程序应用开发，小程序官方 UI 裤 weui，小程序官方基于 node 环境开发工具 wepy 框架；
+* 熟悉微信小程序应用开发，小程序官方 UI 库 weui，小程序官方基于 node 环境开发工具 wepy 框架；
 * 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
 * 熟悉 SassLint， ESLint 等前端测试工具;
 * Ruby on rails 开发，了解 nodejs 开发；
