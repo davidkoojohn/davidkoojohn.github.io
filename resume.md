@@ -18,10 +18,24 @@ title: Resume
 	}
 </style>
 
-
-
-
 ### 期望工作: web前端开发工程师
+
+---
+
+### 技能清单
+
+* Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
+* Website、Responsive Web、Web App 等开发；
+* Bootstrap、React、Vue 等前端框架；
+* 熟悉微信小程序应用开发，小程序官方 UI 库 weui，小程序官方基于 node 环境开发工具 wepy 框架；
+* 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
+* 熟悉 SassLint， ESLint 等前端测试工具;
+* Ruby on rails 开发，了解 nodejs 开发；
+* 熟用 Git 进行版本操作；
+* 熟悉在 Linux、Mac、Windows 等平台开发；
+* 熟练使用 Photoshop、Webstrom、HBuilder 等开发工具；
+* 对项目及人员管理有一定经验；
+* 对产品的需求分析、改定、交互等有一定经验。
 
 ---
 
@@ -64,23 +78,6 @@ title: Resume
     * 开发环境：windows -> mac -> ubuntu
     * 开发工具：webstorm
     * 责任描述：负责项目管理及开发
-
----
-
-### 技能清单
-
-* Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
-* Website、Responsive Web、Web App 等开发；
-* Bootstrap、React、Vue 等前端框架；
-* 熟悉微信小程序应用开发，小程序官方 UI 库 weui，小程序官方基于 node 环境开发工具 wepy 框架；
-* 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
-* 熟悉 SassLint， ESLint 等前端测试工具;
-* Ruby on rails 开发，了解 nodejs 开发；
-* 熟用 Git 进行版本操作；
-* 熟悉在 Linux、Mac、Windows 等平台开发；
-* 熟练使用 Photoshop、Webstrom、HBuilder 等开发工具；
-* 对项目及人员管理有一定经验；
-* 对产品的需求分析、改定、交互等有一定经验。
 
 ---
 
