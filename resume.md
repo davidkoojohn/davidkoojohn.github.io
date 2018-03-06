@@ -66,6 +66,8 @@ title: Resume
 
 * [旗讯看车商家版: http://4s.carhot.cn/](http://4s.carhot.cn/)
 
+* [旗讯看车-微信端: http://m.carhot.cn/](http://m.carhot.cn/)
+
 * 旗讯看车+ `小程序`
     * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
     * 开发技术：小程序开发技术、ruby on rails 提供 API，小程序 weui，ES6 等
