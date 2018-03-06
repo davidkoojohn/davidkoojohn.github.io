@@ -27,57 +27,53 @@ title: Resume
 * Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
 * Website、Responsive Web、Web App 等开发；
 * Bootstrap、React、Vue 等前端框架；
-* 熟悉微信小程序应用开发，小程序官方 UI 库 weui，小程序官方基于 node 环境开发工具 wepy 框架；
+* 熟悉微信小程序应用开发，小程序官方 UI 库 weui，小程序官方基于 node 环境开发框架 wepy 框架；
 * 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
-* 熟悉 SassLint， ESLint 等前端测试工具;
-* Ruby on rails 开发，了解 nodejs 开发；
-* 熟用 Git 进行版本操作；
-* 熟悉在 Linux、Mac、Windows 等平台开发；
-* 熟练使用 Photoshop、Webstrom、HBuilder 等开发工具；
-* 对项目及人员管理有一定经验；
-* 对产品的需求分析、改定、交互等有一定经验。
+* 熟悉 SassLint， ESLint 等前端测试工具 & 熟悉代码风格规范;
+* 熟悉 Ruby on rails 开发 & 熟悉 Nodejs 开发；
+* 熟用 Git 版本控制系统；
+* 熟悉 Linux、Mac 等操作系统；
+* 熟练使用 Photoshop、Webstrom 等开发工具；
+* 懂得持续的优化前端体验和页面响应速度，并保证兼容性和执行效率;
+* 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;
+* 有较强的用户体验理解，可站在用户的角度思考和解决问题；
+* 有产品负责人意识和项目把控能力，责任心强，良好的对外沟通和团队协作能力。
 
 ---
 
-### 目前工作
+### 职业生涯
 
-* 目前就职于: **西安旗讯网络服务有限公司**
-* 地址: *西安市高新区绿地领海大厦*
-* 部门: **技术部**
-* 职位: **开发工程师**
+* 公司: **西安旗讯网络服务有限公司**（2016.11 - 2018.3）
+* 部门 & 职位: **技术部** / **开发工程师**
 * 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。
-* 后端技术：ruby on rails
-* 开发环境：Ubuntu & Mac
 
 ### 项目经验
 
-* [众享车贷: https://www.allchedai.com/](https://www.allchedai.com/)
-    
+* [众享车贷: https://www.allchedai.com/](https://www.allchedai.com/)    
     * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
-    * 前端技术：jquery、scss、Bootstrap、Echarts 等
-    * 后端技术：ruby on rails
+    * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
     * 责任描述：前端开发 & 后端开发
 
 * [旗讯看车: http://carhot.cn/](http://carhot.cn/)
-    
     * 项目描述: 基于 PC 端的汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
-    * 前端技术：jquery、scss、Bootstrap、Echart 等
-    * 后端技术：ruby on rails
+    * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
     * 责任描述：前端开发 & 后端开发 & 项目管理
 
 * [花生财税: http://hs.myonlystar.com](http://hs.myonlystar.com/)
-
-    * 项目描述：是提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
+    * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
     * 开发技术：React、Ant-design、Less、webpack、nodejs 等
     * 责任描述：负责项目独立开发
 
-* 旗讯看车+ `小程序`
+* [旗讯看车商家版: http://4s.carhot.cn/](http://4s.carhot.cn/)
 
+* 旗讯看车+ `小程序`
     * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
     * 开发技术：小程序开发技术、ruby on rails 提供 API，小程序 weui，ES6 等
-    * 开发环境：windows -> mac -> ubuntu
     * 开发工具：webstorm
     * 责任描述：负责项目管理及开发
+
+* EXIN国际信息科学考试学会 `小程序`
+    * 项目描述：EXIN国际信息科学考试学会在线答题系统
 
 ---
 
