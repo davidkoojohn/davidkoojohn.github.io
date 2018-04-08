@@ -19,7 +19,7 @@
 > Contact me
 
 <a href="https://davidkoojohn.github.io/about">
-	<img src="assets/images/cli_300px.png" width="177">
+	<img src="assets/images/wechat_300px.png" width="177">
 </a>
 
 ## License
