@@ -4,18 +4,18 @@ title: Resume
 ---
 
 <style>
-  img {
-    vertical-align: middle;
-  }
+    img {
+        vertical-align: middle;
+    }
   
-	.website-item {
-	  display: flex;
-	  justify-content: space-between;
-    align-items: center;
-    border-bottom: 1px solid #e1e4e8;
-    margin-bottom: .5em;
-    padding: .5em 0;
-	}
+    .website-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #e1e4e8;
+        margin-bottom: .5em;
+        padding: .5em 0;
+    }
 </style>
 
 ### 期望工作: web前端开发工程师
@@ -24,30 +24,65 @@ title: Resume
 
 ### 技能清单
 
-* Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
-* Website、Responsive Web、Web App 等开发；
-* Bootstrap、React、Vue 等前端框架；
-* 熟悉微信小程序应用开发，小程序官方 UI 库 weui，小程序官方基于 node 环境开发框架 wepy 框架；
-* 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
-* 熟悉 SassLint， ESLint 等前端测试工具 & 熟悉代码风格规范;
-* 熟悉 Ruby on rails 开发 & 熟悉 Nodejs 开发；
-* 熟用 Git 版本控制系统；
-* 熟悉 Linux、Mac 等操作系统；
-* 熟练使用 Photoshop、Webstrom 等开发工具；
-* 懂得持续的优化前端体验和页面响应速度，并保证兼容性和执行效率;
-* 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;
-* 有较强的用户体验理解，可站在用户的角度思考和解决问题；
-* 有产品负责人意识和项目把控能力，责任心强，良好的对外沟通和团队协作能力。
+* Front-end
+    * Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
+    * Website、Responsive Web、Web App 等开发；
+    * Bootstrap、React、Vue 等前端框架；
+
+* Back-end
+    * 熟悉 Ruby on rails 开发 & 熟悉 Nodejs 开发；
+
+* 小程序 & 公众号开发
+    * 熟悉公众号开发
+    * 熟悉微信小程序应用生态及开发，熟悉 wepy / mpVue 框架；
+
+* Tools
+    * 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
+    * 熟悉 SassLint， ESLint 等前端测试工具 & 熟悉代码风格规范;
+    * 熟用 Git 版本控制系统；
+    * 熟悉 Linux、Mac 等操作系统；
+    * 熟练使用 Photoshop、Webstrom 等开发工具；
+
+* Other
+    * 熟悉服务端渲染模式开发 & 前后端分离开发
+    * 懂得持续的优化前端体验和页面响应速度，并保证兼容性和执行效率;
+    * 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;
+    * 有较强的用户体验理解，可站在用户的角度思考和解决问题；
+    * 有产品负责人意识和项目把控能力，责任心强，良好的对外沟通和团队协作能力。
 
 ---
 
 ### 职业生涯
 
 * 公司: **西安旗讯网络服务有限公司**（2016.11 - 2018.3）
-* 部门 & 职位: **技术部** / **开发工程师**
-* 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。
+    * 部门 & 职位: **技术部** / **开发工程师** & **项目负责人**
+    * 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。
+
+* 公司: **西安绿豆芽信息科技有限公司有限公司**（2018.3 - 至今）
+    * 部门 & 职位: **研发部** / **前端开发工程师** & **项目经理**
+    * 工作职责: 负责项目开发及其维护和版本迭代，把控和跟进项目。
 
 ### 项目经验
+
+* 乐店云
+    * 项目描述：
+    * 开发技术：
+    * 责任描述：
+
+* 乐豆客 `小程序`
+    * 项目描述：
+    * 开发技术：
+    * 责任描述：
+
+* 红包盒
+    * 项目描述：
+    * 开发技术：
+    * 责任描述：
+
+* 乐豆呀 `小程序`
+    * 项目描述：
+    * 开发技术：
+    * 责任描述：
 
 * [众享车贷: https://www.allchedai.com/](https://www.allchedai.com/)    
     * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
