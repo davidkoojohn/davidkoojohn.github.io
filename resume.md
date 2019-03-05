@@ -27,18 +27,18 @@ title: Resume
 * Front-end
     * Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
     * Website、Responsive Web、Web App 等开发；
-    * Bootstrap、React、Vue 等前端框架；
+    * Bootstrap、Vue、React 等前端框架；
 
 * Back-end
-    * 熟悉 Ruby、Python、Nodejs 开发；
+    * 熟悉 Laravel、Ruby、Python、Nodejs 开发；
 
 * 小程序 & 公众号开发
     * 熟悉公众号开发
-    * 熟悉微信小程序应用生态及开发，熟悉 wepy / mpVue 框架；
+    * 熟悉微信小程序应用生态及开发，熟悉 wepy 框架；
 
 * Tools
-    * 熟悉 Npm / Bower / Webpack / SaSS / LeSS 等前端工具；
-    * 熟悉 SassLint， ESLint 等前端测试工具 & 熟悉代码风格规范;
+    * 熟悉 Npm / Yarn、 Bower、 Webpack、 SaSS、 LeSS 等前端工具；
+    * 熟悉代码风格规范;
     * 熟用 Git 版本控制系统；
     * 熟悉 Linux、Mac 等操作系统；
     * 熟练使用 Photoshop、Webstrom 等工具；
@@ -54,9 +54,9 @@ title: Resume
 
 ### 职业生涯
 
-* 公司: **西安绿豆芽信息科技有限公司**（2018.3 - 至今）
+* 公司: **北京庖丁科技有限公司**（2018.3 - 至今）
     * 部门 & 职位: **研发部** / **前端开发工程师**
-    * 工作职责: 前端L5级工程师（中级工程师），负责项目开发及其维护和版本迭代，把控和跟进项目。
+    * 工作职责: 负责项目开发、交互及其维护和版本迭代。
 
 * 公司: **西安旗讯网络服务有限公司**（2016.7 - 2018.3）
     * 部门 & 职位: **技术部** / **开发工程师** & **项目负责人**
@@ -64,34 +64,25 @@ title: Resume
 
 ### 项目经验
 
-* [乐店云通用版V3.0: http://www.ledianyun.com/](http://www.ledianyun.com/)
-    * 项目描述：为线下店铺、企业提供“丰富、快速、专业、便捷”的专属服务。
-    * 开发技术：php、Vue.js、Element-UI、less、Echarts 等
+* [文档搜索引擎 hunter: http://xa.cheftin.com:1888](http://xa.cheftin.com:1888)    
+    * 项目描述：内部文档搜索
+    * 开发技术：python Tornado、vue、element-ui、scss 等
     * 责任描述：前端开发
     
-* 乐店云通用版V3.0 `小程序`
-    * 开发技术：php、wepy、scss 等
+* [财务报表的结算系统 Proofer - 脱敏工具 faceless: http://xa.cheftin.com:1090](http://xa.cheftin.com:1090)    
+    * 项目描述：财务报表的结算系统的脱敏工具，对敏感词的替换
+    * 开发技术：python Tornado、vue、element-ui、scss 等
     * 责任描述：前端开发
-
-* [乐店云: http://www.ledianyun.com/](http://www.ledianyun.com/)
-    * 项目描述：为线下店铺、企业提供“丰富、快速、专业、便捷”的专属服务。
-    * 开发技术：php、jquery、sea.js、Echarts、Bootstrap 等
+    
+* [金融浏览器web端 pfb: http://xa.cheftin.com:1087](http://xa.cheftin.com:1087)    
+    * 项目描述：文档标注后台管理系统：用户管理，文件管理，行为管理，标注管理等
+    * 开发技术：python Tornado、vue、element-ui、scss 等
     * 责任描述：前端开发
-
-* 乐豆呀 `小程序`
-    * 项目描述：将乐豆客 & 红包盒合并为新的平台更全面的为商家提供营销服务
-    * 开发技术：小程序开发，Echarts，小程序 weui 等
-    * 责任描述：独立前端开发
-
-* 乐豆客 `小程序`
-    * 项目描述：线上传播的引流服务，可创建砍价拼团等活动，轻松实现微信推广，业内首家支持手机端小程序即做即发模式
-    * 开发技术：小程序开发技术，小程序 weui 等
-    * 责任描述：独立前端开发
-
-* 红包盒
-    * 项目描述：线下发红包的智能盒子，基于iBeacon，近场定位、周边互动，顾客领红包，微信摇一摇周边，连接线上线下场景的互动营销玩法
-    * 开发技术：H5，公众号开发(微信JS-SDK)，Vue.js，scss 等
-    * 责任描述：独立前端开发
+    
+* [标注系统 Scriber: http://bohr.cheftin.com:4080](http://bohr.cheftin.com:4080)    
+    * 项目描述：文档信息智能认知系统，业务文档分析，提取关键信息
+    * 开发技术：python flask、vue、element-ui、scss 等
+    * 责任描述：前端开发
 
 * EXIN国际信息科学考试学会 `小程序`
     * 项目描述：EXIN国际信息科学考试学会在线答题系统
