@@ -64,22 +64,22 @@ title: Resume
 
 ### 项目经验
 
-* [文档搜索引擎 hunter: http://xa.cheftin.com:1888](http://xa.cheftin.com:1888)    
+* 文档搜索引擎    
     * 项目描述：内部文档搜索
     * 开发技术：python Tornado、vue、element-ui、scss 等
     * 责任描述：前端开发
     
-* [财务报表的结算系统 Proofer - 脱敏工具 faceless: http://xa.cheftin.com:1090](http://xa.cheftin.com:1090)    
+* 财务报表的结算系统 Proofer - 脱敏工具 faceless    
     * 项目描述：财务报表的结算系统的脱敏工具，对敏感词的替换
     * 开发技术：python Tornado、vue、element-ui、scss 等
     * 责任描述：前端开发
     
-* [金融浏览器web端 pfb: http://xa.cheftin.com:1087](http://xa.cheftin.com:1087)    
+* 金融浏览器web端 pfb    
     * 项目描述：文档标注后台管理系统：用户管理，文件管理，行为管理，标注管理等
     * 开发技术：python Tornado、vue、element-ui、scss 等
     * 责任描述：前端开发
     
-* [标注系统 Scriber: http://bohr.cheftin.com:4080](http://bohr.cheftin.com:4080)    
+* 标注系统 Scriber    
     * 项目描述：文档信息智能认知系统，业务文档分析，提取关键信息
     * 开发技术：python flask、vue、element-ui、scss 等
     * 责任描述：前端开发
@@ -89,24 +89,24 @@ title: Resume
     * 开发技术：leanCloud、wepy 等
     * 责任描述：全栈开发
 
-* [众享车贷: https://www.allchedai.com/](https://www.allchedai.com/)    
+* 众享车贷    
     * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
     * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
     * 责任描述：前端开发 & 后端开发
 
-* [旗讯看车: http://carhot.cn/](http://carhot.cn/)
+* 旗讯看车
     * 项目描述: 基于 PC 端的汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
     * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
     * 责任描述：前端开发 & 后端开发 & 项目管理
 
-* [花生财税: http://hs.myonlystar.com](http://hs.myonlystar.com/)
+* 花生财税
     * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
     * 开发技术：React、Ant-design、Less、webpack、nodejs 等
     * 责任描述：负责项目独立开发
 
-* [旗讯看车商家版: http://4s.carhot.cn/](http://4s.carhot.cn/)
+* 旗讯看车商家版
 
-* [旗讯看车-微信端: http://m.carhot.cn/](http://m.carhot.cn/)
+* 旗讯看车-微信端
 
 * 旗讯看车+ `小程序`
     * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
