@@ -25,23 +25,23 @@ title: Resume
 ### 技能清单
 
 * Front-end
-    * Html / Html5、CSS / CSS3、JavaScript、JQuery ／ Zepto.js、Ajax 等技术；
+    * Html / Html5、CSS / CSS3、JavaScript / ECMAScript 2015+、JQuery ／ Zepto.js、Ajax 等技术；
     * Website、Responsive Web、Web App 等开发；
     * Bootstrap、Vue、React 等前端框架；
 
 * Back-end
-    * 熟悉 Laravel、Ruby、Python、Nodejs 开发；
+    * 熟悉 Php、Ruby、Python、Nodejs 开发；
 
 * 小程序 & 公众号开发
     * 熟悉公众号开发
-    * 熟悉微信小程序应用生态及开发，熟悉 wepy 框架；
+    * 熟悉微信小程序应用生态及开发，熟悉 wepy、taro 框架；
 
 * Tools
-    * 熟悉 Npm / Yarn、 Bower、 Webpack、 SaSS、 LeSS 等前端工具；
+    * 熟悉 Npm / Yarn、 Bower、 Webpack、 SaSS、 LeSS、Stylus 等工具；
     * 熟悉代码风格规范;
     * 熟用 Git 版本控制系统；
     * 熟悉 Linux、Mac 等操作系统；
-    * 熟练使用 Photoshop、Webstrom 等工具；
+    * 熟悉 Photoshop、Webstrom、蓝湖等工具；
 
 * Other
     * 熟悉服务端渲染模式开发 & 前后端分离开发
@@ -54,7 +54,11 @@ title: Resume
 
 ### 职业生涯
 
-* 公司: **北京庖丁科技有限公司**（2018.3 - 至今）
+* 公司: **淇硕集团有限公司 - 北京一盏科技有限公司**（2019.3 - 至今）
+    * 部门 & 职位: **研发部** / **前端开发工程师 & 技术负责人**
+    * 工作职责: 负责项目开发、交互及其维护和版本迭代。
+
+* 公司: **北京庖丁科技有限公司**（2018.3 - 2019.3）
     * 部门 & 职位: **研发部** / **前端开发工程师**
     * 工作职责: 负责项目开发、交互及其维护和版本迭代。
 
@@ -64,55 +68,63 @@ title: Resume
 
 ### 项目经验
 
+* 一盏课堂官网
+* 一盏课堂官网移动端
+* 一盏课堂小程序
+* 一盏课堂后台管理系统
+  * 项目描述：关于互联网教育培训官网
+  * 开发技术：Laravel、vue、iview、scss 等
+  * 责任描述：全栈开发
+
+* 一盏科技官网
+  * 项目描述：关于北京一盏科技的官网
+  * 开发技术：react、less 等
+  * 责任描述：全栈开发
+
 * 文档搜索引擎    
-    * 项目描述：内部文档搜索
-    * 开发技术：python Tornado、vue、element-ui、scss 等
-    * 责任描述：前端开发
+  * 项目描述：内部文档搜索
+  * 开发技术：python Tornado、vue、element-ui、scss 等
+  * 责任描述：前端开发
     
 * 财务报表的结算系统 Proofer - 脱敏工具 faceless    
-    * 项目描述：财务报表的结算系统的脱敏工具，对敏感词的替换
-    * 开发技术：python Tornado、vue、element-ui、scss 等
-    * 责任描述：前端开发
+  * 项目描述：财务报表的结算系统的脱敏工具，对敏感词的替换
+  * 开发技术：python Tornado、vue、element-ui、scss 等
+  * 责任描述：前端开发
     
 * 金融浏览器web端 pfb    
-    * 项目描述：文档标注后台管理系统：用户管理，文件管理，行为管理，标注管理等
-    * 开发技术：python Tornado、vue、element-ui、scss 等
-    * 责任描述：前端开发
+  * 项目描述：文档标注后台管理系统：用户管理，文件管理，行为管理，标注管理等
+  * 开发技术：python Tornado、vue、element-ui、scss 等
+  * 责任描述：前端开发
     
 * 标注系统 Scriber    
-    * 项目描述：文档信息智能认知系统，业务文档分析，提取关键信息
-    * 开发技术：python flask、vue、element-ui、scss 等
-    * 责任描述：前端开发
+  * 项目描述：文档信息智能认知系统，业务文档分析，提取关键信息
+  * 开发技术：python flask、vue、element-ui、scss 等
+  * 责任描述：前端开发
 
+* EXIN国际信息科学考试学会官网
 * EXIN国际信息科学考试学会 `小程序`
-    * 项目描述：EXIN国际信息科学考试学会在线答题系统
-    * 开发技术：leanCloud、wepy 等
-    * 责任描述：全栈开发
+  * 项目描述：EXIN国际信息科学考试学会在线答题系统
+  * 开发技术：Laravel、LeanCloud、Wepy 等
+  * 责任描述：全栈开发
 
-* 众享车贷    
-    * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
-    * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
-    * 责任描述：前端开发 & 后端开发
 
 * 旗讯看车
-    * 项目描述: 基于 PC 端的汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
-    * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
-    * 责任描述：前端开发 & 后端开发 & 项目管理
+* 旗讯看车商家版
+* 旗讯看车-微信端
+* 旗讯看车+ `小程序`
+  * 项目描述: 汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
+  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts、小程序 weui，ES6 等
+  * 责任描述：负责开发 & 项目管理
+
+* 众享车贷
+  * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
+  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
+  * 责任描述：前端开发 & 后端开发
 
 * 花生财税
-    * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
-    * 开发技术：React、Ant-design、Less、webpack、nodejs 等
-    * 责任描述：负责项目独立开发
-
-* 旗讯看车商家版
-
-* 旗讯看车-微信端
-
-* 旗讯看车+ `小程序`
-    * 项目描述：旗讯看车+主要是旗讯看车的的看车业务
-    * 开发技术：小程序开发技术、ruby on rails 提供 API，小程序 weui，ES6 等
-    * 开发工具：webstorm
-    * 责任描述：负责项目管理及开发
+  * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
+  * 开发技术：React、Ant-design、Less、webpack、nodejs 等
+  * 责任描述：负责项目独立开发
 
 ---
 
