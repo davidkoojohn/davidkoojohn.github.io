@@ -25,19 +25,22 @@ title: Resume
 ### 技能清单
 
 * Front-end
-    * Html / Html5、CSS / CSS3、JavaScript / ECMAScript 2015+、JQuery ／ Zepto.js、Ajax 等技术；
+    * Html / Html5、CSS / CSS3；
+    * JavaScript / ECMAScript 2015+；
+    * JQuery 与插件开发 ／ Zepto.js；
+    * Ajax、Fetch 技术；
     * Website、Responsive Web、Web App 等开发；
-    * Bootstrap、Vue、React 等前端框架；
+    * Bootstrap、Vue / Vue3、React 等前端框架；
 
 * Back-end
     * 熟悉 Php、Ruby、Python、Nodejs 开发；
 
 * 小程序 & 公众号开发
     * 熟悉公众号开发
-    * 熟悉微信小程序应用生态及开发，熟悉 wepy、taro 框架；
+    * 熟悉微信小程序应用生态及开发，熟悉 Wepy、Taro 框架；
 
 * Tools
-    * 熟悉 Npm / Yarn、 Bower、 Webpack、 SaSS、 LeSS、Stylus 等工具；
+    * 熟悉 Npm / Yarn、 Bower、 Webpack、Vite、 SaSS、 LeSS、Stylus 等工具；
     * 熟悉代码风格规范;
     * 熟用 Git 版本控制系统；
     * 熟悉 Linux、Mac 等操作系统；
@@ -49,22 +52,22 @@ title: Resume
     * 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;
     * 有较强的用户体验理解，可站在用户的角度思考和解决问题；
     * 有产品负责人意识和项目把控能力，责任心强，良好的对外沟通和团队协作能力。
-
 ---
-
 ### 职业生涯
 
-* 公司: **淇硕集团有限公司 - 北京一盏科技有限公司**（2019.3 - 至今）
-    * 部门 & 职位: **研发部** / **前端开发工程师 & 技术负责人**
-    * 工作职责: 负责项目开发、交互及其维护和版本迭代。
-
-* 公司: **北京庖丁科技有限公司**（2018.3 - 2019.3）
+* 公司: **淇硕集团有限公司**（2019.3 - 至今）
     * 部门 & 职位: **研发部** / **前端开发工程师**
     * 工作职责: 负责项目开发、交互及其维护和版本迭代。
 
-* 公司: **西安旗讯网络服务有限公司**（2016.7 - 2018.3）
-    * 部门 & 职位: **技术部** / **开发工程师** & **项目负责人**
-    * 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。
+* 公司: **北京庖丁科技有限公司**（2017.3 - 2019.3）
+    * 部门 & 职位: **研发部** / **前端开发工程师**
+    * 工作职责: 负责项目开发、交互及其维护和版本迭代。
+
+[comment]: <> (* 公司: **西安旗讯网络服务有限公司**（2016.7 - 2018.3）)
+
+[comment]: <> (    * 部门 & 职位: **技术部** / **开发工程师** & **项目负责人**)
+
+[comment]: <> (    * 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。)
 
 ### 项目经验
 
@@ -79,7 +82,6 @@ title: Resume
 * 一盏科技官网
   * 项目描述：关于北京一盏科技的官网
   * 开发技术：react、less 等
-  * 责任描述：全栈开发
 
 * 文档搜索引擎    
   * 项目描述：内部文档搜索
@@ -108,23 +110,35 @@ title: Resume
   * 责任描述：全栈开发
 
 
-* 旗讯看车
-* 旗讯看车商家版
-* 旗讯看车-微信端
-* 旗讯看车+ `小程序`
-  * 项目描述: 汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。
-  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts、小程序 weui，ES6 等
-  * 责任描述：负责开发 & 项目管理
+[comment]: <> (* 旗讯看车)
 
-* 众享车贷
-  * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品
-  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等
-  * 责任描述：前端开发 & 后端开发
+[comment]: <> (* 旗讯看车商家版)
 
-* 花生财税
-  * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。
-  * 开发技术：React、Ant-design、Less、webpack、nodejs 等
-  * 责任描述：负责项目独立开发
+[comment]: <> (* 旗讯看车-微信端)
+
+[comment]: <> (* 旗讯看车+ `小程序`)
+
+[comment]: <> (  * 项目描述: 汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。)
+
+[comment]: <> (  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts、小程序 weui，ES6 等)
+
+[comment]: <> (  * 责任描述：负责开发 & 项目管理)
+
+[comment]: <> (* 众享车贷)
+
+[comment]: <> (  * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品)
+
+[comment]: <> (  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等)
+
+[comment]: <> (  * 责任描述：前端开发 & 后端开发)
+
+[comment]: <> (* 花生财税)
+
+[comment]: <> (  * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。)
+
+[comment]: <> (  * 开发技术：React、Ant-design、Less、webpack、nodejs 等)
+
+[comment]: <> (  * 责任描述：负责项目独立开发)
 
 ---
 
@@ -140,14 +154,9 @@ title: Resume
 
 ---
 
-### 附加信息
-
 <div class="website-item">
   <a href="https://davidkoojohn.github.io">
     个人网站链接: https://davidkoojohn.github.io
-  </a>
-  <a href="https://davidkoojohn.github.io">
-    <img src="/assets/images/me.png" width="100">
   </a>
 </div>
 
@@ -155,20 +164,14 @@ title: Resume
   <a href="https://davidkoojohn.github.io/share/">
     个人博客链接: https://davidkoojohn.github.io/share/
   </a>
-  <a href="https://davidkoojohn.github.io/share/">
-    <img src="/assets/images/share.png" width="100">
-  </a>
 </div>
 
 <div class="website-item">
   <a href="https://davidkoojohn.github.io/resume">
     简历Markdown版链接: https://davidkoojohn.github.io/resume
   </a>
-  <a href="https://davidkoojohn.github.io/resume">
-    <img src="/assets/images/resume.png" width="100">
-  </a>
 </div>
 
-*[简历PDF版链接: https://davidkoojohn.github.io/preview-pdf-resume](https://davidkoojohn.github.io/preview-pdf-resume)*
+[comment]: <> (*[简历PDF版链接: https://davidkoojohn.github.io/preview-pdf-resume]&#40;https://davidkoojohn.github.io/preview-pdf-resume&#41;*)
 
 
