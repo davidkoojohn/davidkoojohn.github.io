@@ -1,6 +1,6 @@
 title: John Kuo
 description: 梦想仗剑走天涯，看看世间的繁华！
-baseurl: ''
+baseurl: /resume-jeklly/
 url:
 permalink: slug
 collections:
