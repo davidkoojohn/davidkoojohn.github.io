@@ -23,12 +23,8 @@ title: About
 
 ---
 
-Greetings, I’m john. I’m a web developer living in Xi'an China. I am a fan of music, movies, and coffee. I’m also interested in sports.
-
----
-
 <p id="email">
-	Contact me: <a href="mailto:davidkoojohn@126.com" title="Send me a message">davidkoojohn@126.com</a>
+	Contact me: <a href="mailto:davidkoojohn@gmail.com" title="Send Mail">davidkoojohn@gmail.com</a>
 </p>
 
 ---
