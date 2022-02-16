@@ -24,7 +24,7 @@ title: Resume
 
 ### 技能清单
 
-* Front-end
+* Front End
     * Html / Html5、CSS / CSS3；
     * JavaScript / ECMAScript 2015+；
     * JQuery 与插件开发 ／ Zepto.js；
@@ -32,7 +32,7 @@ title: Resume
     * Website、Responsive Web、Web App 等开发；
     * Bootstrap、Vue / Vue3、React 等前端框架；
 
-* Back-end
+* Back End
     * 熟悉 Php、Ruby、Python、Nodejs 开发；
 
 * 小程序 & 公众号开发
@@ -40,14 +40,14 @@ title: Resume
     * 熟悉微信小程序应用生态及开发，熟悉 Wepy、Taro 框架；
 
 * Tools
-    * 熟悉 Npm / Yarn、 Bower、 Webpack、Vite、 SaSS、 LeSS、Stylus 等工具；
+    * 熟悉 Npm / Yarn、Webpack、Vite、 SaSS、 LeSS、Stylus 等工具；
     * 熟悉代码风格规范;
     * 熟用 Git 版本控制系统；
     * 熟悉 Linux、Mac 等操作系统；
     * 熟悉 Photoshop、Webstrom、蓝湖等工具；
 
 * Other
-    * 熟悉服务端渲染模式开发 & 前后端分离开发
+    * 熟悉服务端渲染模式开发与前后端分离开发
     * 懂得持续的优化前端体验和页面响应速度，并保证兼容性和执行效率;
     * 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;
     * 有较强的用户体验理解，可站在用户的角度思考和解决问题；
