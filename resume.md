@@ -27,16 +27,23 @@ title: Resume
 * Front End
     * Html / Html5、CSS / CSS3；
     * JavaScript / ECMAScript 2015+；
-    * JQuery 与插件开发 ／ Zepto.js；
+    * jQuery 与插件开发 ／ Zepto.js；
+    * ECharts / Highcharts等数据可视化库；
     * Ajax、Fetch 技术；
     * Website、Responsive Web、Web App 等开发；
     * Bootstrap、Vue / Vue3、React 等前端框架；
 
 * Back End
-    * 熟悉 Php、Ruby、Python、Nodejs 开发；
+    * 熟悉 Php、Ruby、Python、Nodejs 等开发；
+
+* 移动端开发
+    * 熟悉 React Native 开发；
+    * 熟悉 uni-app 开发；
+    * 熟悉 Flutter 开发；
+    * 熟悉 HarmonyOS 开发； 
 
 * 小程序 & 公众号开发
-    * 熟悉公众号开发
+    * 熟悉公众号开发；
     * 熟悉微信小程序应用生态及开发，熟悉 Wepy、Taro 框架；
 
 * Tools
@@ -56,11 +63,11 @@ title: Resume
 ---
 ### 职业生涯
 
-* 公司: **淇硕集团有限公司**（2019.3 - 至今）
-    * 部门 & 职位: **研发部** / **前端开发工程师**
+* 公司: **淇硕集团有限公司**（2019.3 - 2022.3）
+    * 部门 & 职位: **研发部** / **全栈开发工程师**
     * 工作职责: 负责项目开发、交互及其维护和版本迭代。
 
-* 公司: **北京庖丁科技有限公司**（2017.3 - 2019.3）
+* 公司: **三星数据系统（西安）有限公司**（2017.3 - 2019.3）
     * 部门 & 职位: **研发部** / **前端开发工程师**
     * 工作职责: 负责项目开发、交互及其维护和版本迭代。
 
@@ -89,17 +96,17 @@ title: Resume
   * 开发技术：python Tornado、vue、element-ui、scss 等
   * 责任描述：前端开发
     
-* 财务报表的结算系统 Proofer - 脱敏工具 faceless    
+* 财务报表的结算系统 - 脱敏工具    
   * 项目描述：财务报表的结算系统的脱敏工具，对敏感词的替换
   * 开发技术：python Tornado、vue、element-ui、scss 等
   * 责任描述：前端开发
     
-* 金融浏览器web端 pfb    
+* 金融浏览器web端    
   * 项目描述：文档标注后台管理系统：用户管理，文件管理，行为管理，标注管理等
   * 开发技术：python Tornado、vue、element-ui、scss 等
   * 责任描述：前端开发
     
-* 标注系统 Scriber    
+* 数据标注系统    
   * 项目描述：文档信息智能认知系统，业务文档分析，提取关键信息
   * 开发技术：python flask、vue、element-ui、scss 等
   * 责任描述：前端开发
