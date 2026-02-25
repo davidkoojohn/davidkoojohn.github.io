@@ -19,54 +19,92 @@ title: Resume
 </style>
 
 [comment]: <> (### 期望工作: WEB开发工程师)
-### 现任工作：中慧集团成都研发中心 - 软件技术产品经理
 
----
+[comment]: <> (### 现任工作：中慧集团成都研发中心 - 软件技术产品经理)
 
-### 技能清单
+[comment]: <> (---)
 
-* Front End
-    * Html / Html5、CSS / CSS3；
-    * JavaScript / ECMAScript 2015+；
-    * jQuery 与插件开发 ／ Zepto.js；
-    * ECharts / Highcharts等数据可视化库；
-    * Ajax、Fetch 技术；
-    * Website、Responsive Web、Web App 等开发；
-    * Bootstrap、Vue / Vue3、React 等前端框架；
+[comment]: <> (### 技能清单)
 
-* Back End
-    * 熟悉 Php、Ruby、Python、Nodejs 等开发；
+[comment]: <> (* Front End)
 
-* 移动端开发
-    * 熟悉 React Native 开发；
-    * 熟悉 uni-app 开发；
-    * 熟悉 Flutter 开发；
-    * 熟悉 HarmonyOS 开发； 
+[comment]: <> (    * Html / Html5、CSS / CSS3；)
 
-* 小程序 & 公众号开发
-    * 熟悉公众号开发；
-    * 熟悉微信小程序应用生态及开发，熟悉 Wepy、Taro 框架；
+[comment]: <> (    * JavaScript / ECMAScript 2015+；)
 
-* Tools
-    * 熟悉 Npm / Yarn、Webpack、Vite、 SaSS、 LeSS、Stylus 等工具；
-    * 熟悉代码风格规范;
-    * 熟用 Git 版本控制系统；
-    * 熟悉 Linux、Mac 等操作系统；
-    * 熟悉 Photoshop、Webstrom、蓝湖等工具；
+[comment]: <> (    * jQuery 与插件开发 ／ Zepto.js；)
 
-* Other
-    * 熟悉服务端渲染模式开发与前后端分离开发
-    * 懂得持续的优化前端体验和页面响应速度，并保证兼容性和执行效率;
-    * 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;
-    * 有较强的用户体验理解，可站在用户的角度思考和解决问题；
-    * 有产品负责人意识和项目把控能力，责任心强，良好的对外沟通和团队协作能力。
+[comment]: <> (    * ECharts / Highcharts等数据可视化库；)
+
+[comment]: <> (    * Ajax、Fetch 技术；)
+
+[comment]: <> (    * Website、Responsive Web、Web App 等开发；)
+
+[comment]: <> (    * Bootstrap、Vue / Vue3、React 等前端框架；)
+
+[comment]: <> (* Back End)
+
+[comment]: <> (    * 熟悉 Php、Ruby、Python、Nodejs 等开发；)
+
+[comment]: <> (* 移动端开发)
+
+[comment]: <> (    * 熟悉 React Native 开发；)
+
+[comment]: <> (    * 熟悉 uni-app 开发；)
+
+[comment]: <> (    * 熟悉 Flutter 开发；)
+
+[comment]: <> (    * 熟悉 HarmonyOS 开发； )
+
+[comment]: <> (* 小程序 & 公众号开发)
+
+[comment]: <> (    * 熟悉公众号开发；)
+
+[comment]: <> (    * 熟悉微信小程序应用生态及开发，熟悉 Wepy、Taro 框架；)
+
+[comment]: <> (* Tools)
+
+[comment]: <> (    * 熟悉 Npm / Yarn、Webpack、Vite、 SaSS、 LeSS、Stylus 等工具；)
+
+[comment]: <> (    * 熟悉代码风格规范;)
+
+[comment]: <> (    * 熟用 Git 版本控制系统；)
+
+[comment]: <> (    * 熟悉 Linux、Mac 等操作系统；)
+
+[comment]: <> (    * 熟悉 Photoshop、Webstrom、蓝湖等工具；)
+
+[comment]: <> (* Other)
+
+[comment]: <> (    * 熟悉服务端渲染模式开发与前后端分离开发)
+
+[comment]: <> (    * 懂得持续的优化前端体验和页面响应速度，并保证兼容性和执行效率;)
+
+[comment]: <> (    * 配合后台工程师一起研讨技术实现方案，进行应用及系统整合;)
+
+[comment]: <> (    * 有较强的用户体验理解，可站在用户的角度思考和解决问题；)
+
+[comment]: <> (    * 有产品负责人意识和项目把控能力，责任心强，良好的对外沟通和团队协作能力。)
 
 ---
 ### 职业生涯
 
-* 公司: **中慧云启科技集团有限公司**（2022.3 - ）
+* 公司: **中慧云启科技集团有限公司**（2022.3 - 2026.1）
     * 部门 & 职位: **成都研发中心** / **软件技术产品经理 & 高级讲师**
-    * 工作职责: 负责项目开发、交互及其维护和版本迭代。
+    * 工作职责:
+        * 团队管理：负责成都研发中心软件技术及讲师团队的日常管理、任务分配与绩效评估，保障部门工作高效运转。
+        * 产品规划：负责软件技术产品线的整体规划与设计，输出专业建设及实训室解决方案，支撑院校客户的教学与实训需求。
+        * 售前支持：配合销售团队拜访重点客户，编写定制化销售解决方案，负责产品演示及技术答疑，推动项目签约。
+        * 培训交付：统筹并主讲寒/暑期全国职业院校师资培训，承担学生集训及技术讲座，确保培训质量与客户满意度。
+        * 资源开发：负责Web前端1+X证书配套教材、教学资源包及实训项目的开发，构建完整的课程资源体系。
+        * 产品迭代：负责公司内部自研产品的开发管理与版本迭代，持续优化产品性能与用户体验。
+    * 工作业绩与成果：
+        * 团队建设：带领12人技术及讲师团队，建立标准化研发与培训流程，年度项目交付及时率达100%，团队核心成员留存率超90%。 
+        * 解决方案落地：主导开发软件技术专业建设及实训室解决方案，协助销售团队成功落地多所院校项目。 
+        * 师资培训规模：连续4年统筹并主讲寒/暑期全国骨干教师师资培训，累计覆盖职业院校教师近千人次。 
+        * 1+X证书建设：深度参与Web前端开发1+X证书标准建设，参编配套教材Web前端开发实训案例教程3本，资源包覆盖全国多所试点院校，支撑数万余名学生考证。 
+        * 课程资源产出：构建完整的软件技术课程生态，累计开发课程20余门、实训项目50个、实验包20余个，成为公司对外的核心交付内容。 
+        * 内部产品升级：主导完成公司核心自研产品教学实训平台的多次重大版本迭代，用户量显著提升，支撑全国数百场技能竞赛及日常教学使用。
 
 * 公司: **淇硕集团有限公司**（2019.3 - 2022.3）
     * 部门 & 职位: **研发部** / **全栈开发工程师 & 高级讲师**
@@ -76,14 +114,11 @@ title: Resume
     * 部门 & 职位: **研发部** / **前端开发工程师**
     * 工作职责: 负责项目开发、交互及其维护和版本迭代。
 
-[comment]: <> (* 公司: **西安旗讯网络服务有限公司**（2016.7 - 2018.3）)
-
-[comment]: <> (    * 部门 & 职位: **技术部** / **开发工程师** & **项目负责人**)
-
-[comment]: <> (    * 工作职责: 负责项目开发、交互及其维护和版本迭代；并且负责项目管理任务验收回归测试等；还有产品需求分析、改进，以致力于提高用户体验。)
-
 ### 项目经验
 
+* 《Vue应用程序开发》成功申报“十四五”职业教育国家规划教材书目
+* 《响应式网站开发》成功认定为广州市中等职业学校市级精品课程
+* 《Web前端开发实训案例教程》初、中、高三本教材为Web前端1+X证书指定用书
 * 一盏课堂官网
 * 一盏课堂官网移动端
 * 一盏课堂小程序
@@ -117,41 +152,10 @@ title: Resume
   * 责任描述：前端开发
 
 * EXIN国际信息科学考试学会官网
-* EXIN国际信息科学考试学会 `小程序`
+* EXIN国际信息科学考试学会小程序
   * 项目描述：EXIN国际信息科学考试学会在线答题系统
   * 开发技术：Laravel、LeanCloud、Wepy 等
   * 责任描述：全栈开发
-
-
-[comment]: <> (* 旗讯看车)
-
-[comment]: <> (* 旗讯看车商家版)
-
-[comment]: <> (* 旗讯看车-微信端)
-
-[comment]: <> (* 旗讯看车+ `小程序`)
-
-[comment]: <> (  * 项目描述: 汽车互联网综合服务平台，主要有试驾商城和车商城两大业务，还有车资讯等为以为车主服务为核心的综合服务。)
-
-[comment]: <> (  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts、小程序 weui，ES6 等)
-
-[comment]: <> (  * 责任描述：负责开发 & 项目管理)
-
-[comment]: <> (* 众享车贷)
-
-[comment]: <> (  * 项目描述：以汽车互联网切入的汽车金融平台，主要有快金融和众理财两大金融产品)
-
-[comment]: <> (  * 开发技术：ruby on rails、jquery、scss、Bootstrap、Echarts 等)
-
-[comment]: <> (  * 责任描述：前端开发 & 后端开发)
-
-[comment]: <> (* 花生财税)
-
-[comment]: <> (  * 项目描述：提供注册公司，代理记账，资质代办，知识产权，公司法务等服务的互联网咨询服务平台。)
-
-[comment]: <> (  * 开发技术：React、Ant-design、Less、webpack、nodejs 等)
-
-[comment]: <> (  * 责任描述：负责项目独立开发)
 
 ---
 
@@ -165,25 +169,37 @@ title: Resume
 
 感谢您花时间阅读我的简历，期待能有机会和您共事！
 
----
+[comment]: <> (---)
 
-<div class="website-item">
-  <a href="https://davidkoojohn.github.io">
-    个人网站链接: https://davidkoojohn.github.io
-  </a>
-</div>
+[comment]: <> (<div class="website-item">)
 
-<div class="website-item">
-  <a href="https://davidkoojohn.github.io/share/">
-    个人博客链接: https://davidkoojohn.github.io/share/
-  </a>
-</div>
+[comment]: <> (  <a href="https://davidkoojohn.github.io">)
 
-<div class="website-item">
-  <a href="https://davidkoojohn.github.io/resume">
-    简历Markdown版链接: https://davidkoojohn.github.io/resume
-  </a>
-</div>
+[comment]: <> (    个人网站链接: https://davidkoojohn.github.io)
+
+[comment]: <> (  </a>)
+
+[comment]: <> (</div>)
+
+[comment]: <> (<div class="website-item">)
+
+[comment]: <> (  <a href="https://davidkoojohn.github.io/share/">)
+
+[comment]: <> (    个人博客链接: https://davidkoojohn.github.io/share/)
+
+[comment]: <> (  </a>)
+
+[comment]: <> (</div>)
+
+[comment]: <> (<div class="website-item">)
+
+[comment]: <> (  <a href="https://davidkoojohn.github.io/resume">)
+
+[comment]: <> (    简历Markdown版链接: https://davidkoojohn.github.io/resume)
+
+[comment]: <> (  </a>)
+
+[comment]: <> (</div>)
 
 [comment]: <> (*[简历PDF版链接: https://davidkoojohn.github.io/preview-pdf-resume]&#40;https://davidkoojohn.github.io/preview-pdf-resume&#41;*)
 
