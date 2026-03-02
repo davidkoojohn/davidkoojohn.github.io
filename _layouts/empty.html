@@ -25,7 +25,7 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <link rel="alternate" type="application/rss+xml" title="John Kuo` blog" href="https://davidkoojohn.github.io/share/">
   <link rel="icon" href="{{ '/favicon.png' | relative_url }}" sizes="32x32">
-  {% if page.url == '/resume' %}
+  {% if page.url == '/resume' or page.url == '/resume-cjrh' %}
   <link rel="stylesheet" href="{{ '/assets/stylesheets/markdown.css' | relative_url }}">
   {% endif %}
   <script defer src="{{ '/assets/javascript/AnchorScroller.js' | relative_url }}"></script>
